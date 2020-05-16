@@ -13,7 +13,7 @@ public class TestRicerca {
 		List<String> ana_vac = ric.anagrammi("vacanze") ;
 		System.out.println(ana_vac) ;
 
-		List<String> ana_prg = ric.anagrammi("programmazione") ;
+		List<String> ana_prg = ric.anagrammi("bau") ;
 		System.out.println(ana_prg) ;
 
 	}
